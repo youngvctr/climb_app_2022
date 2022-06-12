@@ -51,13 +51,17 @@
 
 
 ## 3. 어떻게 하나요? (*/ω＼*) 
+
 <img src="https://cdn.imweb.me/thumbnail/20211202/bd7e9fb364253.jpg" width="200px">
+
 1. 하나!  **START** 표시가 된 홀드에 양손을 잡고 양발을 매트리스에서 떼면 시작!
 
 <img src="https://cdn.imweb.me/thumbnail/20211202/b38b42d13f7f0.jpg" width="200px">
+
 2. 둘!  **손, 발 모두 같은 색상만 사용**하여 등반하기!
 
 <img src="https://cdn.imweb.me/thumbnail/20211202/eaf2afb0d4163.jpg" width="200px">
+
 3. 셋!  **TOP** 표시가 되어있는 홀드에 양손을 잡고 3초를 버티면 완등! 
 
 > https://www.theplastik.co.kr/bouldering
