@@ -2,12 +2,23 @@
 
 
 ## 1. 클라이밍이란 무엇일까요?╰(*°▽°*)╯
-<img src= "https://kbsbiz.co.kr/wp-content/uploads/2019/02/%ED%81%B4%EB%9D%BC%EC%9D%B4%EB%B0%8D.png" width="400px">
+<img src= "https://kbsbiz.co.kr/wp-content/uploads/2019/02/%ED%81%B4%EB%9D%BC%EC%9D%B4%EB%B0%8D.png" width="200px">
 - 암벽등반이라고도하는 클라이밍은 말 그대로 '벽을 오르는 것'입니다.
 - 2020년 도쿄올림픽에 정식종목으로 채택되어 많은 관심을 받고있는 스포츠클라이밍, 그 중에서도 볼더링은 5m 정도 되는 벽을 아무런 장비 없이 등반하는 종목으로 제한된 홀드를 사용하여 순간적인 근력뿐 아니라 다양한 기술, 유연성, 문제해결능력(route-finding)을 활용하여 등반을 하는 종목입니다.
+### 1) 클라이밍 경기 종목(종류)
+*국제규격
+<img src= "https://file2.nocutnews.co.kr/newsroom/image/2021/08/04/20210804200917115_000_prev.jpg" width="200px">
+  * 볼더링(Bouldering) 클라이밍
+    - 4~5m 높이의 코스를 여러가지 형태로 완등하는 방식이다. 제한된 시간(국제 경기/4분) 내에 더 많은 코스를 완등하는 선수가 승리한다. 사전에 코스를 연습하는 것이 금지되어 있어 연습 없이 즉흥적으로 진행된다. 신체적 정신적 순발력이 요구되는 종목으로 코스마다 마지막 홀드를 잡았을 때 심판이 OK!라고 외쳐야 완등이다.
+<img src= "https://www.perfectdescent.com/wp-content/uploads/2021/06/Leonardo-and-Kitibin-WR-Timing-Pad-683x1024.jpeg" width="200px">
+  * 스피드(Speed) 클라이밍
+    - 비교적 쉬운 15m 높이의 코스를 얼마나 빨리 오르는지를 점수로 매기는 종목이다. 공식 규격이 정해져 있어 코스와 홀드 위치가 달라지지 않으며 안전벨트를 착용하고 진행된다.
+<img src= "https://sportsw.kr/news/data/20180708/p179573465882664_171.jpg" width="200px">
+  * 리드(Lead) 클라이밍
+    - 15m 높이의 벽을 6분동안 가장 높이 오르는 선수가 승리한다. 설치된 퀵 드로우에 로프를 끼워가면서 올라가는 방식이다. 1회 시기가 주어지고 떨어지면 경기가 끝나며, 선발 등반자의 안전문제로 로프를 회수하는 후발 등반자가 함께한다.
 
 > https://www.theplastik.co.kr/bouldering
-
+> https://redpeony.tistory.com/391
 
 ## 2. 어디에 좋은 운동인가요? (●'◡'●)
 * 근력향상
@@ -34,7 +45,7 @@
 
 ## 4. 프로젝트 계획
 ### 사이드 프로젝트
-참고 : 
+- 참고 페이지 
   1) 더클라임 http://theclimb.co.kr/
   2) 비블럭    http://www.b-bloc.co.kr/
 - 클라이밍 서비스 + 커뮤니티 + 상점 + 사장님 페이지
