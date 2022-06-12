@@ -81,6 +81,15 @@
 + 기술
 & 디자인
 
+#### 기술스택
+- 백엔드
+  - NodeJS
+  - ExpressJS
+- 프론트엔드 (view template)
+  - Handlebars
+- DB
+  - mysql
+
 #### 클라이밍 서비스
 ##### B2C
 - 로그인
