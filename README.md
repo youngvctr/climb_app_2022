@@ -35,8 +35,8 @@
 ## 4. 프로젝트 계획
 ### 사이드 프로젝트
 참고 : 
-- 1) 더클라임 http://theclimb.co.kr/
-- 2) 비블럭    http://www.b-bloc.co.kr/
+  1) 더클라임 http://theclimb.co.kr/
+  2) 비블럭    http://www.b-bloc.co.kr/
 - 클라이밍 서비스 + 커뮤니티 + 상점 + 사장님 페이지
 
 ### 인덱스
