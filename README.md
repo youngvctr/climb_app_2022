@@ -18,20 +18,19 @@
 
   * 볼더링(Bouldering) 클라이밍
     - 4~5m 높이의 코스를 여러가지 형태로 완등하는 방식이다. 제한된 시간(국제 경기/4분) 내에 더 많은 코스를 완등하는 선수가 승리한다. 사전에 코스를 연습하는 것이 금지되어 있어 연습 없이 즉흥적으로 진행된다. 신체적 정신적 순발력이 요구되는 종목으로 코스마다 마지막 홀드를 잡았을 때 심판이 OK!라고 외쳐야 완등이다.
-
-[영상] https://www.youtube.com/watch?v=jrJ21JnNpXE&t=169s
+    - [영상] https://www.youtube.com/watch?v=jrJ21JnNpXE&t=169s
 
 <img src= "https://www.perfectdescent.com/wp-content/uploads/2021/06/Leonardo-and-Kitibin-WR-Timing-Pad-683x1024.jpeg" width="200px">
 
   * 스피드(Speed) 클라이밍
     - 비교적 쉬운 15m 높이의 코스를 얼마나 빨리 오르는지를 점수로 매기는 종목이다. 공식 규격이 정해져 있어 코스와 홀드 위치가 달라지지 않으며 안전벨트를 착용하고 진행된다.
-[영상] https://www.youtube.com/watch?v=sBzwrk8Z7o8
+    - [영상] https://www.youtube.com/watch?v=sBzwrk8Z7o8
 
 <img src= "https://sportsw.kr/news/data/20180708/p179573465882664_171.jpg" width="200px">
 
   * 리드(Lead) 클라이밍
     - 15m 높이의 벽을 6분동안 가장 높이 오르는 선수가 승리한다. 설치된 퀵 드로우에 로프를 끼워가면서 올라가는 방식이다. 1회 시기가 주어지고 떨어지면 경기가 끝나며, 선발 등반자의 안전문제로 로프를 회수하는 후발 등반자가 함께한다.
-[영상] https://www.youtube.com/watch?v=qdjGT8MYpT0
+    - [영상] https://www.youtube.com/watch?v=qdjGT8MYpT0
 
 > https://www.theplastik.co.kr/bouldering
 > https://redpeony.tistory.com/391
