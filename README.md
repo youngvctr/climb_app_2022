@@ -13,6 +13,7 @@
 ### 1) 클라이밍 경기 종목(종류)
 
 *국제규격
+
 <img src= "https://file2.nocutnews.co.kr/newsroom/image/2021/08/04/20210804200917115_000_prev.jpg" width="200px">
 
   * 볼더링(Bouldering) 클라이밍
