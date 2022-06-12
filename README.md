@@ -14,7 +14,7 @@
 
 *국제규격
 
-<img src= "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202108/04/aecbb166-1bd1-4d89-968d-36b5463d3a9a.jpg" width="200px">
+<img src= "http://img.tf.co.kr/article/home/newsis/2021/08/03/202159761627989722.jpg" width="200px">
   * 볼더링(Bouldering) 클라이밍
     - 4~5m 높이의 코스를 여러가지 형태로 완등하는 방식이다. 제한된 시간(국제 경기/4분) 내에 더 많은 코스를 완등하는 선수가 승리한다. 사전에 코스를 연습하는 것이 금지되어 있어 연습 없이 즉흥적으로 진행된다. 신체적 정신적 순발력이 요구되는 종목으로 코스마다 마지막 홀드를 잡았을 때 심판이 OK!라고 외쳐야 완등이다.
 [영상] https://www.youtube.com/watch?v=jrJ21JnNpXE&t=169s
